@@ -24,7 +24,7 @@ def nejniy_romatic(message):
 	while True:
 		bot.send_message(message.chat.id, data[iterat])
 		iterat += 1
-		time.sleep(86 400‬)
+		time.sleep(86400‬)
 		
 
 
